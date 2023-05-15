@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShujaullahQazi
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Sciences.
-- 🌱 I’m currently learning oop in c++
 - 📫 sjullah.bscs21seecs@seecs.edu.pk
 
 <!---
