@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · AI Application Builder · Islamabad, PK</h3>
 
 <p align="center">
-  I build and ship production web applications end to end — from React and Next.js frontends to FastAPI and Laravel backends, with AI-powered features where they add real value.
+  I build and ship production web applications end to end from React and Next.js frontends to FastAPI and Laravel backends, with AI-powered features where they add real value.
 </p>
 
 <p align="center">
