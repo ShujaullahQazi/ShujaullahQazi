@@ -50,9 +50,9 @@
 
 ## Background
 
-Computer Science graduate (SEECS, NUST). I like turning real problems into software people can actually use — whether that is a POS system for a store, an AI advisor, or a product site for a local business.
+Computer Science graduate (SEECS, NUST). I like turning real problems into software people can actually use whether that is a POS system for a store, an AI advisor, or a product site for a local business.
 
-**Open to:** Full-Stack and AI Application roles — remote or hybrid.
+**Open to:** Full-Stack and AI Application roles 
 
 ---
 
@@ -68,5 +68,5 @@ Computer Science graduate (SEECS, NUST). I like turning real problems into softw
 </p>
 
 <p align="center">
-  <i>Building useful software — one deployed app at a time.</i>
+  <i>Most of my bugs died before production. The rest taught me something.</i>
 </p>
