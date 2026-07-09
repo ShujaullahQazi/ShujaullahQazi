@@ -5,25 +5,18 @@
   I build and ship production web applications end to end from React and Next.js frontends to FastAPI and Laravel backends, with AI-powered features where they add real value.
 </p>
 
-<p align="center">
-  <a href="https://financial-advisor-chat-4.onrender.com/"><strong>FinAI</strong></a> ·
-  <a href="https://qbr-inventory.vercel.app"><strong>QBR Inventory</strong></a> ·
-  <a href="https://survey-app-cr67.vercel.app/"><strong>Survey App</strong></a> ·
-  <a href="https://qazinaturals.vercel.app"><strong>Qazi Naturals</strong></a>
-</p>
-
 ---
 
 ## What I build
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| **SwiftPOS** *(recent)* | Laravel 12, React 19, MySQL, Reverb, Docker | Multi-register supermarket POS with real-time inventory sync, cashier shifts, Z-reports, and role-based access |
-| [FinAI – Financial Advisor Agent](https://github.com/ShujaullahQazi/financial-advisor-chat) | FastAPI, Gemini, WebSockets | AI agent with financial tools, session memory, and a live chat UI |
-| [QBR Inventory](https://github.com/ShujaullahQazi/qbr-inventory) | React 19, TypeScript, FastAPI, MongoDB | B2B realtor network with JWT auth and automatic listing matchmaking |
-| **Survey App** | React, TypeScript, Supabase | Offline-first field surveys with photo capture and automatic cloud sync when back online |
-| [Smart Image Compressor](https://github.com/ShujaullahQazi/smart-image-compressor) | React, Vite, Tailwind | Privacy-first client-side image compression with target-size control |
-| [Qazi Naturals](https://github.com/ShujaullahQazi/qazinaturals) | React, Vite | Mobile-first e-commerce with SEO, structured data, and WhatsApp ordering |
+| **SwiftPOS** | Laravel 12, React 19, MySQL, Reverb, Docker | Multi-register supermarket POS with real-time inventory sync, cashier shifts, Z-reports, and role-based access |
+| [FinAI – Financial Advisor Agent](https://financial-advisor-chat-4.onrender.com/) | FastAPI, Gemini, WebSockets | AI agent with financial tools, session memory, and a live chat UI |
+| [QBR Inventory](https://qbr-inventory.vercel.app) | React 19, TypeScript, FastAPI, MongoDB | B2B realtor network with JWT auth and automatic listing matchmaking |
+| **Survey App**(https://survey-app-cr67.vercel.app/) | React, TypeScript, Supabase | Offline-first field surveys with photo capture and automatic cloud sync when back online |
+| [Smart Image Compressor](https://smart-image-compressor-lyart.vercel.app/) | React, Vite, Tailwind | Privacy-first client-side image compression with target-size control |
+| [Qazi Naturals](https://qazinaturals.vercel.app) | React, Vite | Mobile-first e-commerce with SEO, structured data, and WhatsApp ordering |
 | **ApnaFarm** | Next.js 16, React 19, Tailwind v4 | Marketing site for smart urban rooftop poultry — scroll-driven landing with contact API |
 
 *Selected private projects shown above; source available on request.*
