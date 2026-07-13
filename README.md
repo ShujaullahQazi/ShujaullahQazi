@@ -12,7 +12,7 @@
 | Project | Stack | Highlights |
 |--------|-------|------------|
 | **SwiftPOS** | Laravel 12, React 19, MySQL, Reverb, Docker | Multi-register supermarket POS with real-time inventory sync, cashier shifts, Z-reports, and role-based access |
-| [FinAI – Financial Advisor Agent](https://financial-advisor-chat-4.onrender.com/) | FastAPI, Gemini, WebSockets | AI agent with financial tools, session memory, and a live chat UI |
+| [FinAI](https://financial-advisor-chat-4.onrender.com/) | FastAPI, Gemini, WebSockets | AI agent with financial tools, session memory, and a live chat UI |
 | [QBR Inventory](https://qbr-inventory.vercel.app) | React 19, TypeScript, FastAPI, MongoDB | B2B realtor network with JWT auth and automatic listing matchmaking |
 | [Survey App](https://survey-app-cr67.vercel.app/) | React, TypeScript, Supabase | Offline-first field surveys with photo capture and automatic cloud sync when back online |
 | [Smart Image Compressor](https://smart-image-compressor-lyart.vercel.app/) | React, Vite, Tailwind | Privacy-first client-side image compression with target-size control |
