@@ -23,14 +23,6 @@
 
 ---
 
-## Recent focus
-
-- **SwiftPOS** — security hardening, order history integrity, Render deployment, and Docker-based local setup
-- **AI applications** — LLM agents, RAG workflows, and production-style chat interfaces
-- **Full-stack products** — auth, real-time updates, offline sync, and deployed demos on Vercel and Render
-
----
-
 ## Tech I work with
 
 **Frontend:** React 19, Next.js, TypeScript, Vite, Tailwind CSS, TanStack Query  
@@ -41,24 +33,6 @@
 
 ---
 
-## Background
-
-Computer Science graduate (SEECS, NUST). I like turning real problems into software people can actually use whether that is a POS system for a store, an AI advisor, or a product site for a local business.
-
-**Open to:** Full-Stack and AI Application roles 
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:sjullah.bscs21seecs@seecs.edu.pk">
-    <img src="https://img.shields.io/badge/Email-sjullah.bscs21seecs@seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ShujaullahQazi">
-    <img src="https://img.shields.io/badge/GitHub-ShujaullahQazi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <p align="center">
   <i>Most of my bugs died before production. The rest taught me something.</i>
